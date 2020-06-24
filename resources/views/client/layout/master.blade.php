@@ -48,7 +48,8 @@
                         }
                     ?>
                 </li>
-                </ul>
+                </ul>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="navbar-brand" href="{{URL::to('/admin')}}">Đăng nhập Admin</a>
             </div>
         </div>
     </nav>
