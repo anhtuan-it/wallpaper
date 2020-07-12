@@ -1,6 +1,8 @@
 # wallpapers
  Website hình nền điện thoại <br>
  Link truy cập website: http://anhtuan-it.000webhostapp.com/ <br>
+ Demo giao diện Client:<br>
+ <img src="https://user-images.githubusercontent.com/66792742/87241478-cf707100-c44d-11ea-8639-516d30b05fbd.png">
  Demo giao diện Dashboard:<br>
  <img src="https://user-images.githubusercontent.com/66792742/87222108-38e37780-c39b-11ea-935e-93ecb4f89a36.png">
  Note: Tôi tạo nên Project PHP (Laravel) này nhằm mục đích phục vụ cho Project App Mobile (Android) của tôi - Source code App Android: https://github.com/anhtuan-it/Wallpapers/ <br>
